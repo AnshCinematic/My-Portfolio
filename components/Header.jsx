@@ -10,11 +10,10 @@ export default function Header() {
         </div>
         <h3 className='flex items-end gap-2 text-xl md:text-2xl mb-3 '>Hi! I am Ansh Srivastava <Image src={assets.hand_icon} className='w-6'/></h3>
         <h1 className='text-3xl sm:text-6xl lg:text-[66px]'>
-            Full Stack Web Developer.
+            Software Engineer | Bengaluru, India.
         </h1>
         <p className='max-w-2xl mx-auto'>
-            I am a 3rd year student pursuing B.Tech in Computer Science and Engineering from
-             KIIT University . I am a Full Stack Web Developer with a passion for designing and problem solving.
+            I’m a 4th-year B.Tech Computer Science student at KIIT University and a Software Development Engineer in Test (SDET) at Hyperbots. I’m passionate about full-stack web development, clean design, and solving real-world problems through scalable tech solutions.
         </p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
             <a href="#contact" className='px-10 py-3 bg-black text-white rounded-full flex items-center gap-2  duration-300'>Contact me <Image src={assets.right_arrow_white} alt='' className='w-4'/> </a>
