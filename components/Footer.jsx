@@ -13,7 +13,7 @@ const Footer = () => {
             <FaEnvelope /> anshsrivasrava2004@gmail.com
           </p>
           <p className="flex items-center gap-2 mt-2">
-            <FaMapMarkerAlt /> Bhubaneshwar, India
+            <FaMapMarkerAlt /> Bengaluru, India
           </p>
         </div>
 
